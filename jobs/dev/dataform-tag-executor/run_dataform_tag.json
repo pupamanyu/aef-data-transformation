@@ -1,10 +1,10 @@
 {
   "dataform_location":"us-central1",
-  "dataform_project_id":"<PROJECT_ID>",
-  "repository_name": "sample-repo-1",
+  "dataform_project_id":"pramodrao-pso-hackathon",
+  "repository_name": "github.com/pupamanyu/dataform-repo.git",
   "branch": "main",
   "tags": [
-    "process",
-    "transformation"
+    "ddl",
+    "process"
   ]
 }
